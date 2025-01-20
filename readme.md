@@ -6,5 +6,5 @@ Hello, I'm Anthony Max. I've been doing web development for about six years. Dur
 Socials:
 
 [![](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aanthonymax)
-[![](https://img.shields.io/badge/BlueSky-1083fe?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/anthonymax.bsky.social)
+[![](https://img.shields.io/badge/BlueSky-000?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/anthonymax.bsky.social)
 [![](https://img.shields.io/badge/Dev.to-000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/anthonymax)
