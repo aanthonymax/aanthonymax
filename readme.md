@@ -8,3 +8,5 @@ Socials:
 [![twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aanthonymax)
 [![bluesky](https://img.shields.io/badge/BlueSky-000?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/anthonymax.bsky.social)
 [![dev.to](https://img.shields.io/badge/Dev.to-000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/anthonymax)
+[![fiverr](https://img.shields.io/badge/Fiverr-000?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/aanthonymax1)
+
