@@ -1,7 +1,8 @@
 Hello, I'm Anthony Max. I've been doing web development for about seven+ years. During this time, I've worked on a large number of projects both outsourced and in companies. I develop open source projects that I hope will help you. My main contributions are:
 
-- [HMPL](https://github.com/hmpl-language/hmpl) template language
-- [Cample](https://github.com/Camplejs/Cample.js) - one of the [fastest](https://krausest.github.io/js-framework-benchmark/2024/table_chrome_130.0.6723.58.html) frameworks on the Internet without Virtual DOM (I worked on it in the past)
+- [EmbedCatalog](https://github.com/embedcatalog/embedcatalog) - decorate your project with embed. Catalog of services, open source libraries and other tools;
+- [HMPL](https://github.com/hmpl-language/hmpl) template language;
+- [Cample](https://github.com/Camplejs/Cample.js) - one of the [fastest](https://krausest.github.io/js-framework-benchmark/2024/table_chrome_130.0.6723.58.html) frameworks on the Internet without Virtual DOM (I worked on it in the past).
 
 Socials:
 
